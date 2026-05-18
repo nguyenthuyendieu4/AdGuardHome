@@ -3261,7 +3261,6 @@ var blockedServices = []blockedService{{
 		"||vngcdn.net^",
 		"||vngcdn.vn^",
 		"||vngcloud.vn^",
-		"||za.zalo.me^",
 		"||zadn.vn^",
 		"||zaloads.me^",
 		"||zalo.ai^",
